@@ -31,7 +31,7 @@
     "@babel/polyfill": "^7.12.1",
     "chokidar": "^3.5.3",
     "core-js": "^3.32.2",
-    "data-uri-to-buffer": "3.0.1",
+    "data-uri-to-buffer": "6.0.2",
     "debounce": "^1.2.1",
     "escape-string-regexp": "4.0.0",
     "file-uri-to-path": "^2.0.0",
